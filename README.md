@@ -93,5 +93,3 @@ You can install all at once with:
 
 Developed by Mahnoor Amjad✨
 
-
-Would you like me to also generate a **`requirements.txt`** file automatically for your repo based on the libraries in your code?
